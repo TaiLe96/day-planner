@@ -47,7 +47,7 @@ timeHighlight();
 
 //------------------Save to local storage-----------------
 // let timeBlock = document.getElementsByClassName("time-block");
-let saveButton = document.getElementsByClassName("saveBtn");
+var saveButton = document.getElementsByClassName("saveBtn");
 var display;
 var data = {};
 var input;
